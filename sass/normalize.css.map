@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAUA,OAAO,CAAC,2GAAI;AAVZ,AAAA,CAAC;AACD,CAAC,AAAA,QAAQ;AACT,CAAC,AAAA,OAAO,CAAA;EACJ,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB;;AACD,AAAA,IAAI,CAAA;EACA,SAAS,EAAE,KAAK;CACnB",
+    "sources": [
+        "normalize.scss"
+    ],
+    "names": [],
+    "file": "normalize.css"
+}

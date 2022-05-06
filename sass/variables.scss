@@ -1,0 +1,24 @@
+:root{
+    --principal: white; 
+    --secondary: rgba(0, 0, 0, 0.521);
+    --third: black;
+    --font-primary: 'Anton', sans-serif;
+    --font-secondary: 'Rubik', sans-serif;
+    --text-lg: 2em;
+    --text-md: 1.8em;
+}
+.flex-row{
+    display: flex;
+}
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
